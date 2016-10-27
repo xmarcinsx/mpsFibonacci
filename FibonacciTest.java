@@ -1,10 +1,8 @@
+package mps.fib;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
-import mps.fib.FibonacciPower;
 
-/**
- * Created by User on 2016-10-27.
- */
 public class FibonacciTest {
     public static void main(String[] args){
 
