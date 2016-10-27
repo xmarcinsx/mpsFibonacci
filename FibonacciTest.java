@@ -1,5 +1,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
+import mps.fib.FibonacciPower;
 
 /**
  * Created by User on 2016-10-27.
